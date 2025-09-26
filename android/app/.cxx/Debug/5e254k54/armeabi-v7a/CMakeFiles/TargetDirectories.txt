@@ -1,0 +1,2 @@
+D:/Mobile/comic_app/android/app/.cxx/Debug/5e254k54/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/Mobile/comic_app/android/app/.cxx/Debug/5e254k54/armeabi-v7a/CMakeFiles/rebuild_cache.dir
